@@ -1,5 +1,5 @@
 # Laravel Quickstart - Basic by Deepak! on 19th July 2017
-
+#
 ## Quck Installation
 
     git clone https://github.com/laravel/quickstart-basic quickstart
