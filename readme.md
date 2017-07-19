@@ -1,4 +1,4 @@
-# Laravel Quickstart - Basic by Deepak
+# Laravel Quickstart - Basic by Deepak!
 
 ## Quck Installation
 
