@@ -1,4 +1,4 @@
-# Laravel Quickstart - Basic by Deepak!
+# Laravel Quickstart - Basic by Deepak! on 19th July 2017
 
 ## Quck Installation
 
